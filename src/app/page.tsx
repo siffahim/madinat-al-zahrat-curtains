@@ -10,7 +10,7 @@ const HomePage = () => {
   return (
     <div>
       <HeroSection />
-      <div className="px-6 md:px-0">
+      <div className="px-5 md:px-0">
         <Categories />
         <ProductShowcase />
         <Video />
