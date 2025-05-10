@@ -18,6 +18,7 @@ export default {
         center: true,
         screens: {
           "2xl": "1400px",
+          "sm": "640px",
         },
       },
     },

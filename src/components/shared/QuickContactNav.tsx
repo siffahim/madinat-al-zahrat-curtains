@@ -31,9 +31,7 @@ const QuickContactNav = () => {
       <div className="container mx-auto flex justify-between">
         <div className="flex items-center gap-2 cursor-pointer">
           <a href="tel:00971569024192" className="flex items-center gap-2">
-            <Phone
-              className={` text-white animate-pulse`}
-            />
+            <Phone className={` text-white animate-pulse`} />
             <p className="text-lg text-white">00971569024192</p>
           </a>
         </div>

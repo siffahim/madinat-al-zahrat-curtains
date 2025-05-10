@@ -10,12 +10,14 @@ const HomePage = () => {
   return (
     <div>
       <HeroSection />
-      <Categories />
-      <ProductShowcase />
-      <Video />
-      <Overview />
-      <Portfolio />
-      <Testimonials />
+      <div className="px-6 md:px-0">
+        <Categories />
+        <ProductShowcase />
+        <Video />
+        <Overview />
+        <Portfolio />
+        <Testimonials />
+      </div>
     </div>
   );
 };
