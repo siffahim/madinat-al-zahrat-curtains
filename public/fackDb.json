@@ -1,0 +1,312 @@
+{
+  "Curtains": [
+    {
+      "name": "Wonder Curtains",
+      "image": "images/curtains1.jpeg",
+      "price": "50",
+      "id": "1"
+    },
+    {
+      "name": "Elegant Drapes",
+      "image": "images/curtains2.jpeg",
+      "price": "75",
+      "id": "2"
+    },
+    {
+      "name": "Soft Velvet Curtains",
+      "image": "images/curtains3.jpeg",
+      "price": "80",
+      "id": "3"
+    },
+    {
+      "name": "Modern Sheer Curtains",
+      "image": "images/curtains4.jpeg",
+      "price": "40",
+      "id": "4"
+    },
+    {
+      "name": "Premium Silk Curtains",
+      "image": "images/curtains5.jpeg",
+      "price": "100",
+      "id": "5"
+    },
+    {
+      "name": "Luxury Curtains",
+      "image": "images/curtains6.jpeg",
+      "price": "120",
+      "id": "6"
+    },
+    {
+      "name": "Classic Linen Curtains",
+      "image": "images/curtains7.jpeg",
+      "price": "65",
+      "id": "7"
+    },
+    {
+      "name": "Contemporary Curtains",
+      "image": "images/curtains8.jpeg",
+      "price": "55",
+      "id": "8"
+    },
+    {
+      "name": "Bold Patterned Curtains",
+      "image": "images/curtains9.jpeg",
+      "price": "70",
+      "id": "9"
+    },
+    {
+      "name": "Chic Window Drapes",
+      "image": "images/curtains10.jpeg",
+      "price": "85",
+      "id": "10"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "name": "Vintage Floral Wallpaper",
+      "image": "images/wallpaper1.jpeg",
+      "price": "30",
+      "id": "1"
+    },
+    {
+      "name": "Modern Geometric Wallpaper",
+      "image": "images/wallpaper2.jpeg",
+      "price": "40",
+      "id": "2"
+    },
+    {
+      "name": "Classic Stripes Wallpaper",
+      "image": "images/wallpaper3.jpeg",
+      "price": "35",
+      "id": "3"
+    },
+    {
+      "name": "Abstract Art Wallpaper",
+      "image": "images/wallpaper4.jpeg",
+      "price": "50",
+      "id": "4"
+    },
+    {
+      "name": "Scenic Landscape Wallpaper",
+      "image": "images/wallpaper5.jpeg",
+      "price": "45",
+      "id": "5"
+    },
+    {
+      "name": "Retro Pop Art Wallpaper",
+      "image": "images/wallpaper6.jpeg",
+      "price": "60",
+      "id": "6"
+    },
+    {
+      "name": "Textured Wall Covering",
+      "image": "images/wallpaper7.jpeg",
+      "price": "70",
+      "id": "7"
+    },
+    {
+      "name": "Industrial Brick Wallpaper",
+      "image": "images/wallpaper8.jpeg",
+      "price": "55",
+      "id": "8"
+    },
+    {
+      "name": "Wooden Panels Wallpaper",
+      "image": "images/wallpaper9.jpeg",
+      "price": "80",
+      "id": "9"
+    },
+    {
+      "name": "Luxury Gold Leaf Wallpaper",
+      "image": "images/wallpaper10.jpeg",
+      "price": "120",
+      "id": "10"
+    }
+  ],
+  "Carpets": [
+    {
+      "name": "Classic Wool Carpet",
+      "image": "images/carpets1.jpeg",
+      "price": "150",
+      "id": "1"
+    },
+    {
+      "name": "Modern Shaggy Carpet",
+      "image": "images/carpets2.jpeg",
+      "price": "200",
+      "id": "2"
+    },
+    {
+      "name": "Soft Velvet Rug",
+      "image": "images/carpets3.jpeg",
+      "price": "250",
+      "id": "3"
+    },
+    {
+      "name": "Persian Handwoven Carpet",
+      "image": "images/carpets4.jpeg",
+      "price": "500",
+      "id": "4"
+    },
+    {
+      "name": "Textured Cotton Carpet",
+      "image": "images/carpets5.jpeg",
+      "price": "180",
+      "id": "5"
+    },
+    {
+      "name": "Luxury Silk Rug",
+      "image": "images/carpets6.jpeg",
+      "price": "350",
+      "id": "6"
+    },
+    {
+      "name": "Modern Geometric Rug",
+      "image": "images/carpets7.jpeg",
+      "price": "230",
+      "id": "7"
+    },
+    {
+      "name": "Elegant Patterned Carpet",
+      "image": "images/carpets8.jpeg",
+      "price": "220",
+      "id": "8"
+    },
+    {
+      "name": "Eco-Friendly Jute Carpet",
+      "image": "images/carpets9.jpeg",
+      "price": "100",
+      "id": "9"
+    },
+    {
+      "name": "Handcrafted Wool Carpet",
+      "image": "images/carpets10.jpeg",
+      "price": "280",
+      "id": "10"
+    }
+  ],
+  "RollerBlinds": [
+    {
+      "name": "Premium Blackout Roller Blind",
+      "image": "images/blinds1.jpeg",
+      "price": "60",
+      "id": "1"
+    },
+    {
+      "name": "Sheer White Roller Blind",
+      "image": "images/blinds2.jpeg",
+      "price": "40",
+      "id": "2"
+    },
+    {
+      "name": "Modern Roller Blind",
+      "image": "images/blinds3.jpeg",
+      "price": "50",
+      "id": "3"
+    },
+    {
+      "name": "Elegant Fabric Roller Blind",
+      "image": "images/blinds4.jpeg",
+      "price": "55",
+      "id": "4"
+    },
+    {
+      "name": "Sunlight Filtering Roller Blind",
+      "image": "images/blinds5.jpeg",
+      "price": "45",
+      "id": "5"
+    },
+    {
+      "name": "Motorized Roller Blind",
+      "image": "images/blinds6.jpeg",
+      "price": "150",
+      "id": "6"
+    },
+    {
+      "name": "Roller Shade with Pattern",
+      "image": "images/blinds7.jpeg",
+      "price": "70",
+      "id": "7"
+    },
+    {
+      "name": "Light-Diffusing Roller Blind",
+      "image": "images/blinds8.jpeg",
+      "price": "60",
+      "id": "8"
+    },
+    {
+      "name": "Compact Roller Blind",
+      "image": "images/blinds9.jpeg",
+      "price": "30",
+      "id": "9"
+    },
+    {
+      "name": "Luxury Blackout Roller Blind",
+      "image": "images/blinds10.jpeg",
+      "price": "100",
+      "id": "10"
+    }
+  ],
+  "TVCabinet": [
+    {
+      "name": "Modern TV Cabinet",
+      "image": "images/tvcabinet1.jpeg",
+      "price": "200",
+      "id": "1"
+    },
+    {
+      "name": "Wooden TV Stand",
+      "image": "images/tvcabinet2.jpeg",
+      "price": "250",
+      "id": "2"
+    },
+    {
+      "name": "Minimalist TV Unit",
+      "image": "images/tvcabinet3.jpeg",
+      "price": "150",
+      "id": "3"
+    },
+    {
+      "name": "Sleek Metal TV Cabinet",
+      "image": "images/tvcabinet4.jpeg",
+      "price": "180",
+      "id": "4"
+    },
+    {
+      "name": "Luxury Walnut TV Stand",
+      "image": "images/tvcabinet5.jpeg",
+      "price": "350",
+      "id": "5"
+    },
+    {
+      "name": "Compact TV Cabinet",
+      "image": "images/tvcabinet6.jpeg",
+      "price": "100",
+      "id": "6"
+    },
+    {
+      "name": "Industrial TV Stand",
+      "image": "images/tvcabinet7.jpeg",
+      "price": "220",
+      "id": "7"
+    },
+    {
+      "name": "Vintage TV Cabinet",
+      "image": "images/tvcabinet8.jpeg",
+      "price": "280",
+      "id": "8"
+    },
+    {
+      "name": "Scandinavian TV Stand",
+      "image": "images/tvcabinet9.jpeg",
+      "price": "210",
+      "id": "9"
+    },
+    {
+      "name": "High-Gloss TV Cabinet",
+      "image": "images/tvcabinet10.jpeg",
+      "price": "300",
+      "id": "10"
+    }
+  ]
+}
