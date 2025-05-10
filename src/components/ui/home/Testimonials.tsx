@@ -77,7 +77,7 @@ const Testimonials = () => {
           >
             {reviews.map((item, index) => (
               <SwiperSlide key={index}>
-                <div className="h-full flex justify-center items-center relative bg-white rounded">
+                <div className="h-full flex justify-center items-center relative bg-white rounded mx-5 md:mx-0">
                   <img className="mx-auto" src={item.image} alt="" />
                   <h2 className="text-[100px] text-[#ffbb29] mx-auto absolute -top-12 left-0">
                     ❝

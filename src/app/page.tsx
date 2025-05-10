@@ -13,11 +13,13 @@ const HomePage = () => {
       <div className="px-5 md:px-0">
         <Categories />
         <ProductShowcase />
-        <Video />
+      </div>
+      <Video />
+      <div className="px-5 md:px-0">
         <Overview />
         <Portfolio />
-        <Testimonials />
       </div>
+      <Testimonials />
     </div>
   );
 };
