@@ -6,13 +6,13 @@ const Overview = () => {
       icon: <Package strokeWidth={0.5} size={60} />,
       title: "Home Service",
       description:
-        "FREE home delivery with assembling inside Dhaka within 3 days and 5-7 days anywhere in Bangladesh. Inside Dhaka City, we offer free home deliver",
+        "FREE home delivery with assembling inside Dhaka within 3 days and 5-7 days anywhere in United Arab Emirates. Inside UAE City, we offer free home deliver",
     },
     {
       icon: <Award strokeWidth={0.5} size={60} />,
       title: "Returns & Warranty",
       description:
-        "GRID provides an easy, hassle-free servicing system where we pick up your product from your home if there is any problem and get it back to you.",
+        "Madinatal zahrat provides an easy, hassle-free servicing system where we pick up your product from your home if there is any problem and get it back to you.",
     },
     {
       icon: <WalletMinimal strokeWidth={0.5} size={60} />,

@@ -1,6 +1,9 @@
+"use client";
 import Navbar from "@/components/shared/Navbar";
+import { useRouter } from "next/navigation";
 
 const HeroSection = () => {
+  const router = useRouter();
   return (
     <div className="bg-hero">
       <Navbar />
@@ -12,7 +15,10 @@ const HeroSection = () => {
           <p className="text-3xl md:text-4xl text-white font-normal">
             For a better way to work
           </p>
-          <button className="border-2 font-bold px-10 py-3 rounded mt-5 text-white">
+          <button
+            onClick={() => router.push("/curtains")}
+            className="border-2 font-bold px-10 py-3 rounded mt-5 text-white hover:bg-[#DD885F]"
+          >
             See More
           </button>
         </div>
