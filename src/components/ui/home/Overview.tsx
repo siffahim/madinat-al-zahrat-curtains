@@ -18,7 +18,7 @@ const Overview = () => {
       icon: <WalletMinimal strokeWidth={0.5} size={60} />,
       title: "EMI Policy",
       description:
-        "FREE home delivery with assembling inside Dhaka within 3 days and 5-7 days anywhere in Bangladesh. Inside Dhaka City, we offer free home deliver",
+        "Take advantage of our flexible EMI options, allowing you to pay the entire purchase amount divided into 12 convenient installments.",
     },
   ];
   return (
